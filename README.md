@@ -1,2 +1,2 @@
 # .github
-About Limbatus
+About [Limbatus](profile/README.md)
